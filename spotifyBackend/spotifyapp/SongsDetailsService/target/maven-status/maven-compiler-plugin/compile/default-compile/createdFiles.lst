@@ -1,0 +1,7 @@
+com\songs\details\SongsDetailsService\Controller\SongsController.class
+com\songs\details\SongsDetailsService\Service\SongsService.class
+com\songs\details\SongsDetailsService\Exception\SongAlreadyExistsException.class
+com\songs\details\SongsDetailsService\SongsDetailsServiceApplication.class
+com\songs\details\SongsDetailsService\Domain\Songs.class
+com\songs\details\SongsDetailsService\Repository\SongsRepository.class
+com\songs\details\SongsDetailsService\Service\SongsServiceImpl.class

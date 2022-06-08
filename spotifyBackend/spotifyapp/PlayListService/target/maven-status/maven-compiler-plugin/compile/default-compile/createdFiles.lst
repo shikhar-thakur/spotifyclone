@@ -1,0 +1,6 @@
+com\playlist\PlayListService\Domain\Playlist.class
+com\playlist\PlayListService\Controller\PlaylistController.class
+com\playlist\PlayListService\Service\PlayListService.class
+com\playlist\PlayListService\Repository\PlayListRepository.class
+com\playlist\PlayListService\Service\PlayListServiceImpl.class
+com\playlist\PlayListService\PlayListServiceApplication.class
